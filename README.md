@@ -1,6 +1,6 @@
 # ❤️ Heart Disease Prediction
 
-![Heart Disease Prediction App Screenshot](https://github.com/rafi1105/Heart_Disease_Prediction/raw/main/assets/heart_disease_app_screenshot.png)
+![Heart Disease Prediction App Screenshot](image.png)
 
 ## Overview
 
@@ -17,7 +17,7 @@ Heart Disease Prediction is a web application that helps users assess their risk
 
 Below is a screenshot of the application interface:
 
-![App Preview](image1)
+![App Preview]()
 
 ## Getting Started
 
