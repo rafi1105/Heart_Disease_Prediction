@@ -1,6 +1,7 @@
+
 # ❤️ Heart Disease Prediction
 
-![Heart Disease Prediction App Screenshot](image.png)
+![Heart Disease Prediction App Screenshot](https://github.com/rafi1105/Heart_Disease_Prediction/raw/main/assets/heart_disease_app_screenshot.png)
 
 ## Overview
 
@@ -17,7 +18,7 @@ Heart Disease Prediction is a web application that helps users assess their risk
 
 Below is a screenshot of the application interface:
 
-![App Preview]()
+![App Preview](image1)
 
 ## Getting Started
 
@@ -87,3 +88,10 @@ This project is licensed under the MIT License.
 ---
 
 **Note:** This project is for educational purposes only and should NOT be used as a substitute for professional medical advice.
+
+#install terminal
+```bash
+pip install streamlit
+python -m streamlit run app.py
+
+```
